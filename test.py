@@ -82,3 +82,6 @@ while True:
 
 money = fun_checkout(list_money)
 print("合计",money[0],"就付",money[1])
+
+
+print("gittest")
